@@ -1,0 +1,8 @@
+#root {
+  height: 100dvh;
+  width: 100dvw;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.436), rgba(0, 0, 0, 0.321)), url('weather-app-background.png');
+  background-origin:border-box;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
